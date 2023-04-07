@@ -1,30 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T03:57:36.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hPJPSBrE7RWFWnBlXJgk" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T04:11:34.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8EON4Jw6qOFpvbRcDWQ1" version="21.0.2" type="github">
   <diagram name="Page-1" id="940UEB8Na39d6Low3zaP">
-    <mxGraphModel dx="3354" dy="796" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="936" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-3" value="EmergencyBeforeScanningCheckInSession" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="10" y="30" width="250" height="60" as="geometry" />
+          <mxGeometry x="10" y="30" width="397" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-4" value="EmergencyBeforeScanningCheckOutSession" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="10" y="100" width="250" height="60" as="geometry" />
+          <mxGeometry x="10" y="100" width="397" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=13;" edge="1" parent="1" source="-CGtdMd7LiqkpE4CCsxR-5" target="-CGtdMd7LiqkpE4CCsxR-6">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-CGtdMd7LiqkpE4CCsxR-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-CGtdMd7LiqkpE4CCsxR-5" target="-CGtdMd7LiqkpE4CCsxR-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="154" y="260" />
-              <mxPoint x="154" y="844" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-CGtdMd7LiqkpE4CCsxR-41" value="Scan card on warehouse door" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" connectable="0" parent="-CGtdMd7LiqkpE4CCsxR-40">
-          <mxGeometry x="0.4405" y="-1" relative="1" as="geometry">
-            <mxPoint x="123" y="-1" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-5" value="BEGIN" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="230" width="120" height="60" as="geometry" />
@@ -41,10 +28,11 @@
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=13;" edge="1" parent="1" source="-CGtdMd7LiqkpE4CCsxR-10" target="-CGtdMd7LiqkpE4CCsxR-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-CGtdMd7LiqkpE4CCsxR-22" value="Valid ID card" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=11;" vertex="1" connectable="0" parent="-CGtdMd7LiqkpE4CCsxR-21">
-          <mxGeometry x="-0.104" y="2" relative="1" as="geometry">
-            <mxPoint y="2" as="offset" />
-          </mxGeometry>
+        <mxCell id="-CGtdMd7LiqkpE4CCsxR-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-CGtdMd7LiqkpE4CCsxR-10" target="-CGtdMd7LiqkpE4CCsxR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-CGtdMd7LiqkpE4CCsxR-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-CGtdMd7LiqkpE4CCsxR-10" target="-CGtdMd7LiqkpE4CCsxR-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-10" value="CardReaderReadEntrance" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="180" height="60" as="geometry" />
@@ -53,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-12" value="EntranceDoorOpenedForCheckIn" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="772" y="400" width="220" height="60" as="geometry" />
+          <mxGeometry x="904.75" y="400" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=13;" edge="1" parent="1" target="-CGtdMd7LiqkpE4CCsxR-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -66,41 +54,54 @@
         </mxCell>
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-33" value="Scan card on entrance door" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" connectable="0" parent="-CGtdMd7LiqkpE4CCsxR-20">
           <mxGeometry x="0.2667" y="1" relative="1" as="geometry">
-            <mxPoint x="33" y="1" as="offset" />
+            <mxPoint x="33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=13;" edge="1" parent="1" source="-CGtdMd7LiqkpE4CCsxR-23" target="-CGtdMd7LiqkpE4CCsxR-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-CGtdMd7LiqkpE4CCsxR-27" value="Both door closed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=11;" vertex="1" connectable="0" parent="-CGtdMd7LiqkpE4CCsxR-26">
-          <mxGeometry x="-0.15" y="2" relative="1" as="geometry">
-            <mxPoint x="15" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=13;" edge="1" parent="1" source="-CGtdMd7LiqkpE4CCsxR-23" target="-CGtdMd7LiqkpE4CCsxR-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="946" y="704" />
+              <mxPoint x="946" y="704" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-30" value="Warehouse door is still opened" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=11;" vertex="1" connectable="0" parent="-CGtdMd7LiqkpE4CCsxR-29">
           <mxGeometry x="-0.2533" y="-3" relative="1" as="geometry">
-            <mxPoint x="3" y="14" as="offset" />
+            <mxPoint x="3" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-23" value="EntranceDoorClosedForCheckIn" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1062" y="400" width="220" height="60" as="geometry" />
+          <mxGeometry x="904.75" y="621" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-25" value="RfidReaderRead" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1474" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1254" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-CGtdMd7LiqkpE4CCsxR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-CGtdMd7LiqkpE4CCsxR-28" target="-CGtdMd7LiqkpE4CCsxR-25">
+        <mxCell id="-CGtdMd7LiqkpE4CCsxR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" edge="1" parent="1" source="-CGtdMd7LiqkpE4CCsxR-28" target="-CGtdMd7LiqkpE4CCsxR-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-CGtdMd7LiqkpE4CCsxR-53" value="Both door are closed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" connectable="0" parent="-CGtdMd7LiqkpE4CCsxR-46">
+          <mxGeometry x="0.7183" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-CGtdMd7LiqkpE4CCsxR-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1078" y="847" as="sourcePoint" />
+            <mxPoint x="1078" y="681" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-CGtdMd7LiqkpE4CCsxR-49" value="Entrance door is still opened" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" vertex="1" connectable="0" parent="-CGtdMd7LiqkpE4CCsxR-48">
+          <mxGeometry x="-0.3133" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-CGtdMd7LiqkpE4CCsxR-28" value="WarehouseDoorClosedForCheckIn" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1059.25" y="561" width="225.5" height="60" as="geometry" />
+          <mxGeometry x="902" y="847" width="225.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-CGtdMd7LiqkpE4CCsxR-39" value="CardReaderReadWarehouse" style="whiteSpace=wrap;html=1;fontSize=13;fontFamily=Inter;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="433" y="814" width="187" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-CGtdMd7LiqkpE4CCsxR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-CGtdMd7LiqkpE4CCsxR-25" target="-CGtdMd7LiqkpE4CCsxR-25">
+        <mxCell id="-CGtdMd7LiqkpE4CCsxR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Inter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInter;" edge="1" parent="1" source="-CGtdMd7LiqkpE4CCsxR-25" target="-CGtdMd7LiqkpE4CCsxR-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1848" y="445" />
